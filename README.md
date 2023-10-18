@@ -14,4 +14,4 @@ created by [`Abdo-Nsila`](https://github.com/Abdo-Nsila)
 
 *``Deploy Project``
 
-*``Add more``
+*``Add more radix design ``
